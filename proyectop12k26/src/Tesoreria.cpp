@@ -25,14 +25,14 @@ void Tesoreria::menu()
     do
     {
         system("cls");
-
+        cout << "Nombre: Luis | ID: 2 | Codigo: 123456" <<endl;
         cout << "==========================================" << endl;
         cout << "              MODULO TESORERIA            " << endl;
         cout << "==========================================" << endl;
-        cout << "1. Crear Cuenta Bancaria" << endl;
-        cout << "2. Recepcion de Pagos" << endl;
-        cout << "3. Generar Constancia" << endl;
-        cout << "4. Regresar al Menu Principal" << endl;
+        cout << "1. Catalogos" << endl;
+        cout << "2. Informes" << endl;
+        cout << "3. Seguridad" << endl;
+        cout << "4. Salir" << endl;
         cout << "==========================================" << endl;
         cout << "Seleccione una opcion: ";
 

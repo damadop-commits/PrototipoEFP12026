@@ -2857,7 +2857,7 @@
 	<iomanip>
 	<sstream>
 
-1778974549 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\main.cpp
+1780071771 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\main.cpp
 	<iostream>
 	<fstream>
 	"Tesoreria.h"
@@ -2866,29 +2866,29 @@
 	"menuRegistro.h"
 	"MenuAsignaciones.h"
 
-1778972469 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\tesoreria.h
+1780071771 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\tesoreria.h
 
-1778972469 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\usuarios.h
+1780071771 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\usuarios.h
 	<iostream>
 
-1778972469 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\bitacora.h
+1780071771 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\bitacora.h
 	<iostream>
 
-1778972469 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\menuregistro.h
+1780071771 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\menuregistro.h
 
-1778972469 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\menuasignaciones.h
+1780071771 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\menuasignaciones.h
 	"Asignaciones.h"
 
-1779031976 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\asignaciones.h
+1780071771 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\asignaciones.h
 	<vector>
 	<string>
 	"Cursos.h"
 
-1779031976 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\cursos.h
+1780071771 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\cursos.h
 	<string>
 	<vector>
 
-1778972469 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\alumnos.cpp
+1780071772 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\alumnos.cpp
 	"Alumnos.h"
 	"Carrera.h"
 	<iostream>
@@ -2903,18 +2903,18 @@
 	<iomanip>
 	<conio.h>
 
-1778972469 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\alumnos.h
+1780071771 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\alumnos.h
 	<string>
 	<vector>
 
-1779116459 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\carrera.h
+1780071771 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\carrera.h
 	<iostream>
 	<fstream>
 	<iomanip>
 	<conio.h>
 	<vector>
 
-1779031976 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\asignaciones.cpp
+1780071772 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\asignaciones.cpp
 	"Asignaciones.h"
 	<iostream>
 	<fstream>
@@ -2922,7 +2922,7 @@
 	<vector>
 	<iomanip>
 
-1779116459 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\bancos.cpp
+1780071772 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\bancos.cpp
 	"Bancos.h"
 	"GeneradorConstancias.h"
 	<iostream>
@@ -2932,16 +2932,16 @@
 	<iomanip>
 	<sstream>
 
-1779077469 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\bancos.h
+1780071771 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\bancos.h
 	<string>
 	"GeneradorConstancias.h"
 
-1779031976 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\generadorconstancias.h
+1780071771 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\generadorconstancias.h
 	<iostream>
 	<string>
 	<fstream>
 
-1778972469 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\bitacora.cpp
+1780071772 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\bitacora.cpp
 	"bitacora.h"
 	<iostream>
 	<fstream>
@@ -2950,7 +2950,7 @@
 	<conio.h>
 	<iomanip>
 
-1779116459 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\carrera.cpp
+1780071772 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\carrera.cpp
 	"Carrera.h"
 	<iostream>
 	<fstream>
@@ -2959,16 +2959,16 @@
 	<conio.h>
 	<stdlib.h>
 
-1779031976 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\configuracionevaluacion.cpp
+1780071772 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\configuracionevaluacion.cpp
 	<iostream>
 	"ConfiguracionEvaluacion.h"
 
-1779031976 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\configuracionevaluacion.h
+1780071771 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\configuracionevaluacion.h
 	<string>
 	<vector>
 	"Cursos.h"
 
-1779031976 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\cursos.cpp
+1780071772 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\cursos.cpp
 	"Cursos.h"
 	<string>
 	<vector>
@@ -2977,24 +2977,24 @@
 	<iomanip>
 	<conio.h>
 
-1778972469 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\facultades.cpp
+1780071772 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\facultades.cpp
 	"facultades.h"
 	<iostream>
 
-1778972469 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\facultades.h
+1780071771 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\facultades.h
 	<string>
 
-1779031976 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\generadorconstancias.cpp
+1780071772 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\generadorconstancias.cpp
 	"GeneradorConstancias.h"
 	<cstdlib>
 	<ctime>
 	<iostream>
 	<fstream>
 
-1779031976 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\horarios.cpp
+1780071772 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\horarios.cpp
 	"Horarios.h"
 
-1779031976 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\horarios.h
+1780071771 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\horarios.h
 	<iostream>
 	<vector>
 	<string>
@@ -3003,16 +3003,16 @@
 	"Asignaciones.h"
 	"GeneradorConstancias.h"
 
-1779031976 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\inscipcion.cpp
+1780071772 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\inscipcion.cpp
 	<iostream>
 	<fstream>
 	<cstdio>
 	"inscipcion.h"
 
-1779031976 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\inscipcion.h
+1780071771 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\inscipcion.h
 	<string>
 
-1779031976 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\maestros.cpp
+1780071772 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\maestros.cpp
 	"maestros.h"
 	"Carrera.h"
 	"Cursos.h"
@@ -3024,7 +3024,7 @@
 	<iomanip>
 	<sstream>
 
-1779031976 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\maestros.h
+1780071771 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\maestros.h
 	<string>
 	<vector>
 	<fstream>
@@ -3032,13 +3032,13 @@
 	"Carrera.h"
 	"Cursos.h"
 
-1779031976 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\menu inscripcion .cpp
+1780071772 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\menu inscripcion .cpp
 	"menu inscripcion .h"
 	"inscipcion.h"
 	<iostream>
 	<conio.h>
 
-1779031976 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\menu inscripcion .h
+1780071771 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\menu inscripcion .h
 
 1779031976 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\menuasignaciones.cpp
 	"MenuAsignaciones.h"
@@ -3047,14 +3047,14 @@
 	"modulomenurespaldo.h"
 	<iostream>
 
-1778972469 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\modulopagos.h
+1780071771 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\modulopagos.h
 	"validacionpagos0.h"
 
-1779031976 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\validacionpagos0.h
+1780071771 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\validacionpagos0.h
 	<string>
 	<vector>
 
-1779031976 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\modulomenurespaldo.h
+1780071771 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\modulomenurespaldo.h
 
 1779116459 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\menuregistro.cpp
 	"menuRegistro.h"
@@ -3066,25 +3066,25 @@
 	<iostream>
 	<conio.h>
 
-1779031976 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\modulomenurespaldo.cpp
+1780071772 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\modulomenurespaldo.cpp
 	"../include/modulomenurespaldo.h"
 	"../include/respaldo.h"
 
-1779031976 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\respaldo.h
+1780071771 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\respaldo.h
 	<string>
 
-1779031976 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\modulopagos.cpp
+1780071772 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\modulopagos.cpp
 	"ModuloPagos.h"
 	"validacionpagos0.h"
 	<iostream>
 	<iomanip>
 
-1778972469 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\proyecto.cpp
+1780071772 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\proyecto.cpp
 	"proyecto.h"
 
-1778972469 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\proyecto.h
+1780071771 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\proyecto.h
 
-1779118768 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\recepcion.cpp
+1780071772 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\recepcion.cpp
 	"Recepcion.h"
 	<iostream>
 	<fstream>
@@ -3094,17 +3094,17 @@
 	<sstream>
 	<algorithm>
 
-1779032314 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\recepcion.h
+1780071771 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\recepcion.h
 	<iostream>
 	<string>
 	"Alumnos.h"
 	"Maestros.h"
 
-1779031976 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\registrarnotas.cpp
+1780071772 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\registrarnotas.cpp
 	<iostream>
 	"RegistrarNotas.h"
 
-1779031976 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\registrarnotas.h
+1780071771 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\registrarnotas.h
 	<string>
 	<vector>
 	"ConfiguracionEvaluacion.h"
@@ -3112,11 +3112,11 @@
 	"bitacora.h"
 	"reportes.h"
 
-1779031976 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\reportes.h
+1780071771 c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\include\reportes.h
 	<string>
 	<fstream>
 
-1779031976 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\reportes.cpp
+1780071772 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\reportes.cpp
 	<iostream>
 	<fstream>
 	<sstream>
@@ -3124,7 +3124,7 @@
 	<cstdio>
 	"reportes.h"
 
-1779031976 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\respaldo.cpp
+1780071772 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\respaldo.cpp
 	"../include/respaldo.h"
 	<iostream>
 	<fstream>
@@ -3132,7 +3132,7 @@
 	<iomanip>
 	<ctime>
 
-1779031976 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\tesoreria.cpp
+1780072130 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\tesoreria.cpp
 	"Tesoreria.h"
 	"Bancos.h"
 	"Recepcion.h"
@@ -3140,7 +3140,7 @@
 	<iostream>
 	<string>
 
-1778972469 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\usuarios.cpp
+1780071772 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\usuarios.cpp
 	"usuarios.h"
 	<fstream>
 	<cstdlib>
@@ -3148,7 +3148,7 @@
 	<iostream>
 	"bitacora.h"
 
-1779031976 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\validacionpagos0.cpp
+1780071772 source:c:\users\danie\documents\actividades programacion\prototipoefp12026\prototipoefp12026\proyectop12k26\src\validacionpagos0.cpp
 	"validacionpagos0.h"
 	<string>
 	<iostream>

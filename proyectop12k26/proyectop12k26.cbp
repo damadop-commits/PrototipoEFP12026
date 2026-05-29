@@ -40,7 +40,6 @@
 		<Unit filename="include/ConfiguracionEvaluacion.h" />
 		<Unit filename="include/Cursos.h" />
 		<Unit filename="include/GeneradorConstancias.h" />
-		<Unit filename="include/MenuAsignaciones.h" />
 		<Unit filename="include/ModuloPagos.h" />
 		<Unit filename="include/Recepcion.h" />
 		<Unit filename="include/RegistrarNotas.h" />
@@ -52,7 +51,6 @@
 		<Unit filename="include/horarios.h" />
 		<Unit filename="include/inscipcion.h" />
 		<Unit filename="include/maestros.h" />
-		<Unit filename="include/menu inscripcion .h" />
 		<Unit filename="include/menuRegistro.h" />
 		<Unit filename="include/modulomenurespaldo.h" />
 		<Unit filename="include/proyecto.h" />
@@ -66,7 +64,6 @@
 		<Unit filename="src/ConfiguracionEvaluacion.cpp" />
 		<Unit filename="src/Cursos.cpp" />
 		<Unit filename="src/GeneradorConstancias.cpp" />
-		<Unit filename="src/MenuAsignaciones.cpp" />
 		<Unit filename="src/ModuloPagos.cpp" />
 		<Unit filename="src/Recepcion.cpp" />
 		<Unit filename="src/Recepcion.cpp.save" />
@@ -79,11 +76,6 @@
 		<Unit filename="src/inscipcion.cpp" />
 		<Unit filename="src/maestros.cpp" />
 		<Unit filename="src/menu inscripcion .cpp" />
-		<Unit filename="src/menuNotas.cpp">
-			<Option compile="0" />
-			<Option link="0" />
-		</Unit>
-		<Unit filename="src/menuRegistro.cpp" />
 		<Unit filename="src/modulomenurespaldo.cpp" />
 		<Unit filename="src/proyecto.cpp" />
 		<Unit filename="src/reportes.cpp" />

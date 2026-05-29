@@ -5,7 +5,7 @@
 #include<iostream>
 #include "bitacora.h"
 #define USER "daguilae"
-#define PASS "123456"
+#define PASS "123456"   //Menu de USUARIOS
 
 using namespace std;
 

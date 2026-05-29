@@ -1,0 +1,50 @@
+commit c60f2f04f677457fb1c746d160f9748130d4cbc4
+Merge: 22302da 2b2d2d0
+Author: damadop-commits <damadop@miumg.edu.gt>
+Date:   Fri May 29 10:34:38 2026 -0600
+
+    Merge pull request #3 from damadop-commits/RamaMenuGeneral
+    
+    Subiendo Cambios de Menu y Arriba los datos del usuario
+
+commit 2b2d2d0513092fc64755f71c9b42a60ca0be0e72
+Author: damadop-commits <damadop@miumg.edu.gt>
+Date:   Fri May 29 10:32:33 2026 -0600
+
+    Subiendo Cambios de Menu y Arriba los datos del usuario
+
+commit 22302da71390159c3deb60c13472185eadaf638f
+Merge: ad050d5 a6b08c1
+Author: damadop-commits <damadop@miumg.edu.gt>
+Date:   Fri May 29 10:21:43 2026 -0600
+
+    Merge pull request #2 from damadop-commits/Maim_9959_25_3251
+    
+    Subiendo Primeros Cambios
+
+commit a6b08c1af43fe7161c52d495bee3e79cbf79a5f9
+Author: damadop-commits <damadop@miumg.edu.gt>
+Date:   Fri May 29 10:20:55 2026 -0600
+
+    Subiendo Primeros Cambios
+
+commit ad050d5f70d05a34a78978982dd9c9ad8a6510cd
+Merge: 487feb7 dee6246
+Author: damadop-commits <damadop@miumg.edu.gt>
+Date:   Fri May 29 10:11:12 2026 -0600
+
+    Merge pull request #1 from damadop-commits/Maim_9959_25_3251
+    
+    Subiendo Rama e
+
+commit dee624613126bb211ba10754784429f0e49c748b
+Author: damadop-commits <damadop@miumg.edu.gt>
+Date:   Fri May 29 10:03:48 2026 -0600
+
+    Subiendo Rama e
+
+commit 487feb73517bd3c48f47a6ae754a7615de4cf8f4
+Author: damadop-commits <damadop@miumg.edu.gt>
+Date:   Fri May 29 09:42:26 2026 -0600
+
+    Initial commit

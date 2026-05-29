@@ -48,14 +48,10 @@ void menuGeneral()
         cout<<"\t\t\t-------------------------------"<<endl;
         cout<<"\t\t\t |   SISTEMA GESTION DE VENTAS  |"<<endl;
         cout<<"\t\t\t-------------------------------"<<endl;
-        cout<<"\t\t\t 1. Registro e Inscripciòn"<<endl;
-        cout<<"\t\t\t 2. Asignaciòn de Cursos"<<endl;
-        cout<<"\t\t\t 3. Notas"<<endl;
-        cout<<"\t\t\t 4. Tesoreria"<<endl;
-        cout<<"\t\t\t 5. Salir del Sistema"<<endl;
-
+        cout<<"\t\t\t 1. Tesoreria"<<endl;
+        cout<<"\t\t\t 2. Salir"<<endl;
         cout<<"\t\t\t-------------------------------"<<endl;
-        cout<<"\t\t\tOpcion a escoger:[1/2/3/4/5]"<<endl;
+        cout<<"\t\t\tOpcion a escoger:[1,2]"<<endl;
         cout<<"\t\t\t-------------------------------"<<endl;
         cout<<"\t\t\tIngresa tu Opcion: ";
 
@@ -65,30 +61,12 @@ void menuGeneral()
         {
         case 1:
             {
-            menuRegistro registro;
-            registro.menuPrincipalRegistro();
-            }
-            break;
-        case 2:
-            {
-            MenuAsignaciones asignaciones;
-            asignaciones.ejecutarMenu();
-            }
-            break;
-
-        case 3:
-            cout << "Aqui se colocara el modulo de notas" << endl;
-            cin.get();
-            break;
-
-        case 4:
-            {
             Tesoreria tesoreria;
             tesoreria.menu();
             }
             break;
 
-        case 5:
+        case 2:
             cin.get();
             break;
 
@@ -97,7 +75,7 @@ void menuGeneral()
             cin.get();
         }
 
-    }while(choice!= 5);
+    }while(choice!= 2);
 }
 
 void creditosModulo()
